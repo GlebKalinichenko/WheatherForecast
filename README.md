@@ -1,2 +1,2 @@
 # WheatherForecast
-Notification of wheather forecasr 
+Notification of wheather forecast
